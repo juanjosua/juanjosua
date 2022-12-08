@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanjosua
-- 👀 I’m interested in data science and cyber security
-- 🌱 I’m currently learning mostly about cyber security and also data science
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning mostly about data science
 - 💞️ I’m looking to collaborate on an open source project (if possible)
 - 📫 Feel free to visit my linkedin profile on linkedin.com/in/juanjosua to reach me
 
